@@ -1,0 +1,30 @@
+_repo: Delicious-Recipes-including-Toll-House-Chocolate-Cookies_65510
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Lamont, Gordon
+    gutenberg_agent_id: '25920'
+    url: http://www.gutenberg.org/2009/agents/25920
+  - agent_name: United States Rubber Company
+    aliases:
+    - U.S. Rubber Company
+    - Company, United States Rubber
+    gutenberg_agent_id: '1570'
+    url: http://www.gutenberg.org/2009/agents/1570
+    wikipedia: https://en.wikipedia.org/wiki/United_States_Rubber_Company
+  - agent_name: Curliss
+    gutenberg_agent_id: '53384'
+    url: http://www.gutenberg.org/2009/agents/53384
+description: ''
+gutenberg_issued: '2021-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65510'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Delicious Recipes including Toll House Chocolate Cookies
+url: http://www.gutenberg.org/ebooks/65510
